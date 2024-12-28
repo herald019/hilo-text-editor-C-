@@ -1,0 +1,8 @@
+hello world this is a peice of text for demonstration purposes
+hello world this is a peice of text thiat was addecx ok backspace now working noice 
+wow its saving what im typing over there great
+ 
+this is a row that was created after the backspace key was done :thumbsup 
+
+
+ok this is a line that i wrote after implementing the enter key :thumbsup
